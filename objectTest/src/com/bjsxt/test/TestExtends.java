@@ -5,6 +5,7 @@ public class TestExtends {
 		new A();
 		TestStrictfp testStrictfp = new TestStrictfp();
 		testStrictfp.main();
+		System.out.println("nihao git");
 	}
 	
 }
